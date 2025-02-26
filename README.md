@@ -1,1 +1,1 @@
-Проектная работа Яндекс Практикум "Посмотри в окно"
+https://github.com/Rhtvtym/posmotri-v-okno-fd.git
