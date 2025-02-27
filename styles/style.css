@@ -183,6 +183,8 @@ input[type="checkbox"]:checked+span {
   border: 1px solid #fff;
   width: 15px;
   height: 15px;
+  margin-left: 2px;
+  margin-right: 2px;
   background: #fff;
 }
 
@@ -193,7 +195,6 @@ input[type="checkbox"]:checked+span {
 }
 
 .content__list-item {
-  
   gap:30px;
   padding-left: 3px;
   padding-right: 3px;
