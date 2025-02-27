@@ -195,7 +195,6 @@ input[type="checkbox"]:checked+span {
 }
 
 .content__list-item {
-  gap:30px;
   padding-left: 3px;
   padding-right: 3px;
   cursor: pointer;
