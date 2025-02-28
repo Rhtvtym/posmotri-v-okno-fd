@@ -179,13 +179,11 @@ ol {
   margin-bottom: auto;
 }
 
-input[type="checkbox"]:checked+span {
-  border: 1px solid #fff;
+.search-form__checkbox:checked+.search-form__pseudo-checkbox::after {
+  content: "";
   width: 15px;
   height: 15px;
-  margin-left: 2px;
-  margin-right: 2px;
-  background: #fff;
+  background-color: #fff;
 }
 
 .content__list-container {
